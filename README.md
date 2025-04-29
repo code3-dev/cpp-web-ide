@@ -1,4 +1,4 @@
-# Modern UI Application 🎨
+# C++ Web IDE 🎨
 
 [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.3.1-646CFF.svg)](https://vitejs.dev/)
